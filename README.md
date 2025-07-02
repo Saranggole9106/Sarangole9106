@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarang Gole</h1>
-<h3 align="center"></h3>
+<h3 align="center"></h3> 
 
 <img src="https://github.com/user-attachments/assets/24c288ad-ac07-48ed-9caf-f6331a872611" alt="Хакер" width="900">
 
